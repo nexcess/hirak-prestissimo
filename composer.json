@@ -1,5 +1,6 @@
 {
-    "name": "hirak/prestissimo",
+    "name": "nexcess/hirak-prestissimo",
+    "version": "1.0.1",
     "description": "composer parallel install plugin for Composer 1.x",
     "type": "composer-plugin",
     "keywords": ["parallel", "install", "speedup"],
@@ -7,6 +8,10 @@
         {
             "name": "Hiraku NAKANO",
             "email": "hiraku@tojiru.net"
+        },
+        {
+            "name": "Dave Mednick",
+            "email": "david.mednick@nexcess.net"
         }
     ],
     "license": "MIT",
